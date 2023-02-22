@@ -1,15 +1,10 @@
 <h2>Hello world, I'm Christina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px"></h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&duration=4000&pause=1000&color=BF5DF7&width=435&lines=Thanks+for+visiting+my+GitHub!;Glad+to+see+you+here++-++take+a+look+around!)](https://git.io/typing-svg)
+
 
 <p>I'm a software engineer with a focus on full-stack scalable applications optimized for its users. Always curious about new technologies and concepts and love solving complex and challenging problems. I am an avid contributor in the open-source community and always aim to lend a hand to projects promoting diversity, equity, inclusion, and productivity.</p>
 
-<p>Feel free to connect or chat about tech with me!</p>
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:or.christina27@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christina-or)
-
-<h2>My Tech Stack</h2>
+<h2> :computer: My Tech Stack</h2>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -39,6 +34,18 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+<h3>Feel free to connect or chat about tech with me!</h3>
+
+<a href="https://linkedin.com/in/christina-or" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christina-or linkedin" height="30" width="40" /></a>
+<a href="https://girhub.com/christinaor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="christinaor github" height="30" width="40" /></a>
+<a href="https://instagram.com/christinahahaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nessa.byte" height="30" width="40" /></a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&duration=4000&pause=1000&color=BF5DF7&width=435&lines=Thanks+for+visiting+my+GitHub!;Come+back+soon!)](https://git.io/typing-svg)
+
+<!-- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:or.christina27@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christina-or) -->
+
 
 <!--
 **christinaor/christinaor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
