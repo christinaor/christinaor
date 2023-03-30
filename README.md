@@ -4,7 +4,10 @@
 
 <p>I'm a software engineer with a focus on full-stack scalable applications optimized for its users. Always curious about new technologies and concepts and love solving complex and challenging problems. I am an avid contributor in the open-source community and always aim to lend a hand to projects promoting diversity, equity, inclusion, and productivity.</p>
 
-<h2> :computer: My Tech Stack</h2>
+
+
+<hr>
+<h2 align=center> :computer: My Tech Stack</h2>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -35,7 +38,8 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-<h3>Feel free to connect or chat about tech with me!</h3>
+<hr>
+<h3>Connect or chat about tech with me!</h3>
 
 <a href="https://linkedin.com/in/christina-or" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christina-or linkedin" height="30" width="40" /></a>
 <a href="https://girhub.com/christinaor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="christinaor github" height="30" width="40" /></a>
