@@ -1,12 +1,21 @@
-<h2>Hello world, I'm Christina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px"></h2>
+<h1 align="center">Hello world, I'm Christina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px"></h1>
 
+<p>I'm a software engineer with a focus on full-stack scalable applications optimized for its users. Always curious about new technologies and concepts and love solving complex and challenging problems. I am an avid contributor in the open-source community and always aim to lend a hand to projects promoting productivity and goodwill.</p>
 
+<h3>Connect or chat about tech with me!</h3>
 
-<p>I'm a software engineer with a focus on full-stack scalable applications optimized for its users. Always curious about new technologies and concepts and love solving complex and challenging problems. I am an avid contributor in the open-source community and always aim to lend a hand to projects promoting diversity, equity, inclusion, and productivity.</p>
-
+<div style="display: flex; flex-direction: row;">
+  <div>
+    <a href="https://linkedin.com/in/christina-or" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christina-or linkedin" height="30" width="40" /></a>
+    <a href="https://girhub.com/christinaor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="christinaor github" height="30" width="40" /></a>
+    <a href="https://instagram.com/christinahahaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nessa.byte" height="30" width="40" /></a>
+  </div>
+  <div align="right"><img src="https://komarev.com/ghpvc/?username=christinaor&label=Profile%20views&color=0e75b6&style=flat" alt="profile views for Christina Or" /></div>
+</div>
 
 
 <hr>
+
 <h2 align=center> :computer: My Tech Stack</h2>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -39,17 +48,16 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 <hr>
-<h3>Connect or chat about tech with me!</h3>
+&nbsp;
 
-<a href="https://linkedin.com/in/christina-or" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christina-or linkedin" height="30" width="40" /></a>
-<a href="https://girhub.com/christinaor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="christinaor github" height="30" width="40" /></a>
-<a href="https://instagram.com/christinahahaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nessa.byte" height="30" width="40" /></a>
+<div align="center" style="display: flex; flex-direction: row;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=christinaor&show_icons=true&theme=dark&locale=en" alt="GitHub stats for Christina Or" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christinaor&theme=dark" alt="streak stats for Christina Or" />
+</div>
+
+&nbsp;
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&duration=4000&pause=1000&color=BF5DF7&width=435&lines=Thanks+for+visiting+my+GitHub!;Come+back+soon!)](https://git.io/typing-svg)
-
-<!-- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:or.christina27@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christina-or) -->
-
 
 <!--
 **christinaor/christinaor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
