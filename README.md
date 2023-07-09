@@ -47,15 +47,15 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-<hr>
-&nbsp;
+
+<!-- &nbsp;
 
 <div align="center" style="display: flex; flex-direction: row;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=christinaor&show_icons=true&theme=dark&locale=en" alt="GitHub stats for Christina Or" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christinaor&theme=dark" alt="streak stats for Christina Or" />
 </div>
-
-&nbsp;
+df
+&nbsp; -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&duration=4000&pause=1000&color=BF5DF7&width=435&lines=Thanks+for+visiting+my+GitHub!;Come+back+soon!)](https://git.io/typing-svg)
 
